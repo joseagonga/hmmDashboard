@@ -391,4 +391,4 @@ def update_graph(start_date, end_date, n_clicks):
 
 # --- 6. Ejecutar el Dashboard ---
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
